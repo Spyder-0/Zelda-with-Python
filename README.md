@@ -13,6 +13,7 @@ WASD - Move <br />
 Space - Attck <br />
 Left Control - Magic <br />
 Q - Change Weapon <br />
+E - Change Magic <br />
 
 # UI
 Red Bar: Health <br />
