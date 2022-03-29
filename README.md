@@ -11,6 +11,9 @@ A Zelda-like game I made with Python following this tutorial https://youtu.be/QU
 
 Also, there is a folder with pictures included to help you with the download process.
 
+# Goal
+The goal of the game is to kill many monsters and get EXP to upgrade your skills! If your health runs out, the game will close automatically, so DON'T DIE! Goodluck! Also, this code is not a full game, its just a nice project to pass time. It shows how powerful Python really is!
+
 # Controls
 **WASD** - Move <br />
 **Space** - Attack <br />
