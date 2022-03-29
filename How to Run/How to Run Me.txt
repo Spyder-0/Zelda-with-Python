@@ -1,0 +1,10 @@
+To run the game, execute the "Main.py" file in the "Code" folder.
+Make sure you have Python and Pygame installed.
+Install Pygame by typing "pip install pygame" in CMD/Terminal.
+:)
+
+You can modify the images and code, but you need to know what you're doing!
+
+I included images to help you with the process. Download python here https://www.python.org/downloads/
+
+Enjoy! :D
