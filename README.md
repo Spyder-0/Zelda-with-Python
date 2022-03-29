@@ -24,11 +24,18 @@ You can upgrade your skills using the EXP you get from killing monsters. Each sk
 
 ![image](https://user-images.githubusercontent.com/85440857/160607803-02bb0038-c4bb-4336-9f0f-c56fcfd053ea.png)
 
+# Magic and Spells
+There is two types of spells: Flame and Heal. Flame is a long-range attack. And Heal will heal you... Obviously.
+
 # UI
 Red Bar: Health <br />
 Blue Bar: Strength (Will decrease everytime you use magic and recharges after a while) <br />
 Two Boxes on the Bottom Left: Weapon and Magic Selection <br />
 Bottom Right Box: EXP <br />
+
+# Python and Pygame
+Python: https://www.python.org/downloads/ <br />
+Pygame (Download using Command Prompt or Terminal): https://pypi.org/project/pygame/ <br />
 
 # Open Source
 This project is open source! You can use it and modify it, but make sure to give credit to the creator of the tutorial :)
