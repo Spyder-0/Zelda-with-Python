@@ -14,10 +14,14 @@ Space - Attck <br />
 Left Control - Magic <br />
 Q - Change Weapon <br />
 E - Change Magic <br />
+M - Toggle Upgrade Menu <br />
+
+# How to Use Upgrade Menu
+You can upgrade your skills using the EXP you get from killing monsters. Each skill has a cost. Navigate the menu with the Left and Right buttons, and press Space to upgrade a skill! After you're done, press M again to exit and continue playing.
 
 # UI
 Red Bar: Health <br />
-Blue Bar: Magic <br />
+Blue Bar: Strength (Will decrease everytime you use magic and recharges after a while) <br />
 Two Boxes on the Bottom Left: Weapon and Magic Selection <br />
 Bottom Right Box: EXP <br />
 
