@@ -25,11 +25,11 @@ You can upgrade your skills using the EXP you get from killing monsters. Each sk
 ![image](https://user-images.githubusercontent.com/85440857/160607803-02bb0038-c4bb-4336-9f0f-c56fcfd053ea.png)
 
 # Magic and Spells
-There is two types of spells: Flame and Heal. Flame is a long-range attack. And Heal will heal you... Obviously.
+There is two types of spells: Flame and Heal. Flame is a long-range attack. And Heal will heal you... Obviously. Casting a spell will decrease your energy.
 
 # UI
 Red Bar: Health <br />
-Blue Bar: Strength (Will decrease everytime you use magic and recharges after a while) <br />
+Blue Bar: Energy (Will decrease everytime you use magic and recharges after a while) <br />
 Two Boxes on the Bottom Left: Weapon and Magic Selection <br />
 Bottom Right Box: EXP <br />
 
