@@ -12,12 +12,12 @@ A Zelda-like game I made with Python following this tutorial https://youtu.be/QU
 Also, there is a folder with pictures included to help you with the download process.
 
 # Controls
-WASD - Move <br />
-Space - Attack <br />
-Left Control - Magic <br />
-Q - Change Weapon <br />
-E - Change Magic <br />
-M - Toggle Upgrade Menu <br />
+**WASD** - Move <br />
+**Space** - Attack <br />
+**Left Control** - Magic <br />
+**Q** - Change Weapon <br />
+**E** - Change Magic <br />
+**M** - Toggle Upgrade Menu <br />
 
 # How to Use Upgrade Menu
 You can upgrade your skills using the EXP you get from killing monsters. Each skill has a cost. Navigate the menu with the Left and Right buttons, and press Space to upgrade a skill! After you're done, press M again to exit and continue playing.
@@ -28,14 +28,14 @@ You can upgrade your skills using the EXP you get from killing monsters. Each sk
 There is two types of spells: Flame and Heal. Flame is a long-range attack. And Heal will heal you... Obviously. Casting a spell will decrease your energy.
 
 # UI
-Red Bar: Health <br />
-Blue Bar: Energy (Will decrease everytime you use magic and recharges after a while) <br />
-Two Boxes on the Bottom Left: Weapon and Magic Selection <br />
-Bottom Right Box: EXP <br />
+**Red Bar:** Health <br />
+**Blue Bar:** Energy (Will decrease everytime you use magic and recharges after a while) <br />
+**Two Boxes on the Bottom Left:** Weapon and Magic Selection <br />
+**Bottom Right Box:** EXP <br />
 
 # Python and Pygame
-Python: https://www.python.org/downloads/ <br />
-Pygame (Download using Command Prompt or Terminal): https://pypi.org/project/pygame/ <br />
+**Python:** https://www.python.org/downloads/ <br />
+**Pygame (Download using Command Prompt or Terminal):** https://pypi.org/project/pygame/ <br />
 
 # Open Source
-This project is open source! You can use it and modify it, but make sure to give credit to the creator of the tutorial :)
+This project is **open source**! You can use it and modify it, but make sure to give credit to the creator of the tutorial :)
