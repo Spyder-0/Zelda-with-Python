@@ -1,5 +1,4 @@
 # Tutorial https://youtu.be/QU1pPzEGrqw
-# Stopped at https://youtu.be/QU1pPzEGrqw?t=26695
 # This is the Main file to run the game from
 # Im proud of this :)
 
