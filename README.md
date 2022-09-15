@@ -5,7 +5,7 @@ A Zelda-like game I made with Python following this tutorial https://youtu.be/QU
 
 # How to Download and Run ⬇
 1. Make sure you have Python installed and Pygame too. If you have Python, go to the Command Line and type `pip install pygame`.
-2. Download this Repository (Clone it or download it as a ZIP file).
+2. Download this Repository (You can clone it) or head to the [`releases page`](https://github.com/SpyderGamer/Zelda-with-Python/releases).
 3. Extract the ZIP file and find the `Main.py` file which is located in the `Code` folder.
 4. Run this file and enjoy! <br /> 
 
