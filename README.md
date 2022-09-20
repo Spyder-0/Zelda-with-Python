@@ -12,15 +12,17 @@ A Zelda-like game I made with Python following this tutorial https://youtu.be/QU
 Also, there is a folder with pictures included to help you with the download process.
 
 # Goal 🎯
-The goal of the game is to kill many monsters and get EXP to upgrade your skills! If your health runs out, the game will close automatically, so DON'T DIE! Goodluck! Also, this code is not a full game, its just a nice project to pass time. It shows how powerful Python really is!
+The goal of the game is to kill many monsters and get EXP to upgrade your skills! If your health runs out, the game will close automatically, so **DON'T DIE!** Goodluck! Also, this code is not a full game, its just a nice project to pass time. It shows how powerful Python really is!
 
 # Controls ⌨
-**WASD** - Move <br />
-**Space** - Attack <br />
-**Left Control** - Magic <br />
-**Q** - Change Weapon <br />
-**E** - Change Magic <br />
-**M** - Toggle Upgrade Menu <br />
+| Key | Description |
+| :---: | :---: |
+| `Arrow Keys` | Move |
+| `Space Bar` | Attack |
+| `Left Control` | Magic |
+| `Q` | Change Weapon |
+| `E` | Change Magic |
+| `M` | Toggle Upgrade Menu |
 
 # How to Use Upgrade Menu 🔼
 You can upgrade your skills using the EXP you get from killing monsters. Each skill has a cost. Navigate the menu with the Left and Right buttons, and press Space to upgrade a skill! After you're done, press M again to exit and continue playing.
