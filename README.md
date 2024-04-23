@@ -14,5 +14,5 @@ A Zelda-like game made with the Pygame library.
 | `M` | Toggle Upgrade Menu |
 
 # About
-- Credits to Clearcode for making a ![tutorial](https://youtu.be/QU1pPzEGrqw).
+- Credits to Clearcode for making a [tutorial](https://youtu.be/QU1pPzEGrqw).
 - Ensure you have the Pygame library installed: `pip install pygame`.
